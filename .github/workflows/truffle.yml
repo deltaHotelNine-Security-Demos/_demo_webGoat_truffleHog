@@ -1,4 +1,4 @@
-# Test TruffleHog
+# TruffleHog
 name: TruffleHog Secrets Scan
 on:
   push:
